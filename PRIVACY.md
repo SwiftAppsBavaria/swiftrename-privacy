@@ -50,7 +50,7 @@ Da SwiftRename keine Daten erhebt, bestehen keine besonderen Risiken für Kinder
 ### Kontakt
 
 Bei Fragen zur Datenschutzrichtlinie wenden Sie sich an:
-Andreas Heiligtag — heiligtag.andreas@proton.me
+Andreas Heiligtag — andreas.heiligtag@gmx.de
 
 ---
 
@@ -99,4 +99,4 @@ Changes to this privacy policy will be published in this file. Since no data is 
 ### Contact
 
 For questions about this privacy policy, please contact:
-Andreas Heiligtag — heiligtag.andreas@proton.me
+Andreas Heiligtag — andreas.heiligtag@gmx.de
