@@ -50,7 +50,7 @@ Changes to this privacy policy will be published in this file. Since no data is 
 ### Contact
 
 For questions about this privacy policy, please contact:
-SwiftAppsBavaria — SwiftAppsBavaria@gmx.de
+SwiftAppsBavaria — SwiftAppsBavaria@gmx.net
 
 ---
 
@@ -99,4 +99,4 @@ Da SwiftRename keine Daten erhebt, bestehen keine besonderen Risiken für Kinder
 ### Kontakt
 
 Bei Fragen zur Datenschutzrichtlinie wenden Sie sich an:
-SwiftAppsBavaria — SwiftAppsBavaria@gmx.de
+SwiftAppsBavaria — SwiftAppsBavaria@gmx.net
