@@ -1,15 +1,15 @@
-# Privacy Policy
+# 隐私政策
 
 **SwiftRename**
 最后更新：2026年7月20日
 
 ---
 
-### Summary
+### 概述
 
 SwiftRename 不会收集、存储或传输任何个人数据。所有数据都仅保留在您的设备上。
 
-### Data Collection
+### 数据收集
 
 SwiftRename **不会**收集个人数据。本 App：
 
@@ -19,7 +19,7 @@ SwiftRename **不会**收集个人数据。本 App：
 - 不向服务器或第三方发送数据
 - 不含广告
 
-### Local Data Storage
+### 本地数据存储
 
 SwiftRename 仅在您的 Mac 上本地存储以下数据：
 
@@ -29,23 +29,23 @@ SwiftRename 仅在您的 Mac 上本地存储以下数据：
 
 这些数据绝不会离开您的设备，您随时都可以通过卸载 App 将其彻底删除。
 
-### File Access
+### 文件访问
 
 SwiftRename 仅访问您主动选择的文件夹和文件（通过文件对话框或拖放操作）。本 App 在 macOS 沙盒环境中运行，无法访问您系统的其他区域。
 
-### Third-Party Services
+### 第三方服务
 
 SwiftRename 不使用任何会收集数据的第三方服务、SDK 或框架。
 
-### Children
+### 儿童
 
 由于 SwiftRename 不收集任何数据，因此不存在针对儿童的特定风险。
 
-### Changes
+### 变更
 
 本隐私政策的任何变更都将在本文件中公布。由于本 App 不收集任何数据，预计不会有重大变更。
 
-### Contact
+### 联系方式
 
 如对本隐私政策有任何疑问，请通过以下方式联系我们：
 SwiftAppsBavaria — SwiftAppsBavaria@gmx.net
