@@ -1,12 +1,12 @@
-# SwiftRename — Support
+# SwiftRename — Supporto
 
 SwiftRename è un'app per macOS che consente di rinominare, copiare e spostare i file in blocco. Le foto e i video ricevono come nome la loro data di scatto (EXIF) e, se lo desideri, vengono ordinati automaticamente in cartelle per anno, mese o giorno; in alternativa, l'app numera i file in sequenza con un tuo prefisso personalizzato, oppure conserva i nomi e si limita a ordinare i file nelle cartelle. I duplicati vengono rilevati in base a dimensione e contenuto e vengono ignorati.
 
-## Help in the app
+## Aiuto nell'app
 
 SwiftRename include un manuale completo integrato. Puoi aprirlo dal menu «Aiuto» o con ⌘/ (Comando–Barra). Spiega tutte le modalità di rinomina, le strutture delle cartelle, il rilevamento dei duplicati e le restanti opzioni.
 
-## Frequently asked questions
+## Domande frequenti
 
 **Le mie foto non ricevono la loro data di scatto.**
 Verifica che «Usa la data della fotocamera» sia attivo. Se un file non ha una data di scatto EXIF, SwiftRename utilizza al suo posto la data di creazione.
@@ -20,7 +20,7 @@ Sì — subito dopo l'operazione, premi ⌘Z (Modifica → Annulla). I file copi
 **Come cambio la lingua dell'app?**
 macOS consente di impostare la lingua per singola app: Impostazioni di Sistema → Generali → Lingua e Regione → sezione «App». Aggiungi qui SwiftRename e scegli la lingua che preferisci.
 
-## Contact
+## Contatti
 
 SwiftAppsBavaria — SwiftAppsBavaria@gmx.net
 
