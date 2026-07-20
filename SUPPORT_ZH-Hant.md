@@ -1,12 +1,12 @@
-# SwiftRename — Support
+# SwiftRename — 支援
 
 SwiftRename 是一款 macOS App，能夠批次重新命名、複製與移動檔案。照片和影片會以拍攝日期（EXIF）命名，若您願意，還能自動依年、月或日分類到資料夾中；或者，App 也能以您自訂的前綴依序編號檔案，或保留原有名稱、僅將檔案分類到資料夾中。重複的檔案會依大小與內容偵測並略過。
 
-## Help in the app
+## App 內建說明
 
 SwiftRename 內建完整的使用手冊。您可以從「輔助說明」選單，或按 ⌘/（Command–斜線）開啟。它會說明所有重新命名模式、資料夾結構、重複偵測，以及其餘各項選項。
 
-## Frequently asked questions
+## 常見問題
 
 **我的照片沒有套用拍攝日期。**
 請確認「使用相機日期」已啟用。若某個檔案沒有 EXIF 拍攝日期，SwiftRename 會改用其建立日期。
@@ -20,7 +20,7 @@ SwiftRename 內建完整的使用手冊。您可以從「輔助說明」選單�
 **我要如何變更 App 的語言？**
 macOS 讓您可以為每個 App 個別選擇語言：系統設定 → 一般 → 語言與地區 →「App」區塊。在該處加入 SwiftRename，並選擇您想要的語言。
 
-## Contact
+## 聯絡方式
 
 SwiftAppsBavaria — SwiftAppsBavaria@gmx.net
 
