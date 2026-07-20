@@ -1,9 +1,7 @@
-# Datenschutzrichtlinie
+# Datenschutzerklärung
 
 **SwiftRename**
 Zuletzt aktualisiert: 5. März 2026
-
-## Deutsch
 
 ### Zusammenfassung
 
@@ -33,7 +31,7 @@ Diese Daten verlassen Ihr Gerät nicht und können jederzeit durch Deinstallatio
 
 SwiftRename greift ausschließlich auf Ordner und Dateien zu, die Sie selbst aktiv auswählen (über den Dateidialog oder per Drag & Drop). Die App arbeitet innerhalb der macOS-Sandbox und hat keinen Zugriff auf andere Bereiche Ihres Systems.
 
-### Drittanbieter-Dienste
+### Dienste von Drittanbietern
 
 SwiftRename verwendet keine Drittanbieter-Dienste, SDKs oder Frameworks, die Daten erheben.
 
