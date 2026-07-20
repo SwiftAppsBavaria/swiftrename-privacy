@@ -1,4 +1,4 @@
-# SwiftRename — Support
+# SwiftRename — Assistance
 
 SwiftRename est une app macOS pour renommer, copier et déplacer des fichiers par lots. Les photos et vidéos sont nommées d'après leur date de prise de vue (EXIF) et, si vous le souhaitez, triées automatiquement dans des dossiers par année, mois ou jour ; l'app peut aussi numéroter les fichiers en séquence avec votre propre préfixe, ou conserver les noms et se contenter de les trier dans des dossiers. Les doublons sont détectés d'après leur taille et leur contenu, puis ignorés.
 
