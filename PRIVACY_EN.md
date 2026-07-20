@@ -1,4 +1,4 @@
-# Privacy Policy / Datenschutzrichtlinie
+# Privacy Policy
 
 **SwiftRename**
 Last updated: Feburary, 17th 2026 / Zuletzt aktualisiert: 17. Februar 2026
