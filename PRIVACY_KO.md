@@ -48,4 +48,4 @@ SwiftRename은 어떠한 데이터도 수집하지 않으므로, 아동에게 �
 ### 문의
 
 이 개인정보 처리방침에 대한 문의는 아래로 연락해 주십시오:
-SwiftAppsBavaria — SwiftAppsBavaria@gmx.net
+Andreas Heiligtag — SwiftAppsBavaria@gmx.net

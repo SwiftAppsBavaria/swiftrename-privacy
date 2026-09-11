@@ -48,4 +48,4 @@ Le modifiche a questa informativa sulla privacy verranno pubblicate in questo fi
 ### Contatti
 
 Per domande su questa informativa sulla privacy, contatta:
-SwiftAppsBavaria — SwiftAppsBavaria@gmx.net
+Andreas Heiligtag — SwiftAppsBavaria@gmx.net

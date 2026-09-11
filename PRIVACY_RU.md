@@ -48,4 +48,4 @@ SwiftRename не использует какие-либо сторонние с�
 ### Контакты
 
 По вопросам, касающимся этой политики конфиденциальности, обращайтесь:
-SwiftAppsBavaria — SwiftAppsBavaria@gmx.net
+Andreas Heiligtag — SwiftAppsBavaria@gmx.net

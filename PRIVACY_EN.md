@@ -50,4 +50,4 @@ Changes to this privacy policy will be published in this file. Since no data is 
 ### Contact
 
 For questions about this privacy policy, please contact:
-SwiftAppsBavaria— SwiftAppsBavaria@gmx.net
+Andreas Heiligtag — SwiftAppsBavaria@gmx.net

@@ -46,4 +46,4 @@ Da SwiftRename keine Daten erhebt, bestehen keine besonderen Risiken für Kinder
 ### Kontakt
 
 Bei Fragen zur Datenschutzrichtlinie wenden Sie sich an:
-SwiftAppsBavaria — SwiftAppsBavaria@gmx.net
+Andreas Heiligtag — SwiftAppsBavaria@gmx.net

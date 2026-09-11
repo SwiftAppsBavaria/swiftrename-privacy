@@ -48,4 +48,4 @@ SwiftRename 不使用任何會收集資料的第三方服務、SDK 或框架。
 ### 聯絡方式
 
 如對本隱私權政策有任何疑問，請聯絡：
-SwiftAppsBavaria — SwiftAppsBavaria@gmx.net
+Andreas Heiligtag — SwiftAppsBavaria@gmx.net
