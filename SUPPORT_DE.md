@@ -14,7 +14,7 @@ Prüfe, ob „Kameradatum verwenden" aktiviert ist. Hat eine Datei kein EXIF-Auf
 **Warum wurden manche Dateien übersprungen?**
 Vermutlich hat die Duplikaterkennung sie als bereits vorhanden erkannt (gleiche Größe und gleicher Inhalt im Zielordner). Der Dialog zeigt beide Dateien im direkten Vergleich; die Prüfung lässt sich mit „Auf Duplikate prüfen" auch abschalten.
 
-**Kann ich eine Umbenennung rückgängig machen?**
+**Kann ich eine Umbenennung widerrufen?**
 Ja — direkt nach dem Lauf mit ⌘Z (Bearbeiten → Widerrufen). Kopierte Dateien wandern dabei in den Papierkorb, verschobene kehren an ihren Ursprungsort zurück.
 
 **Wie stelle ich die Sprache der App um?**
