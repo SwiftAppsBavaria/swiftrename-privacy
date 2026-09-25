@@ -1,11 +1,11 @@
 # Datenschutzerklärung
 
 **SwiftRename**
-Zuletzt aktualisiert: 5. März 2026
+Zuletzt aktualisiert: 25. September 2026
 
 ### Zusammenfassung
 
-SwiftRename erhebt, speichert oder überträgt keine personenbezogenen Daten. Alle Daten verbleiben ausschließlich auf Ihrem Gerät.
+SwiftRename erhebt, speichert oder überträgt keine personenbezogenen Daten. Alle Daten verbleiben ausschließlich auf deinem Gerät.
 
 ### Datenerhebung
 
@@ -19,17 +19,17 @@ SwiftRename erhebt **keine** personenbezogenen Daten. Die App:
 
 ### Lokale Datenspeicherung
 
-SwiftRename speichert folgende Daten ausschließlich lokal auf Ihrem Mac:
+SwiftRename speichert folgende Daten ausschließlich lokal auf deinem Mac:
 
-- **Einstellungen:** Ihre Konfiguration (Umbenennungsmodus, Dateioperationen, Sprachauswahl) wird in einer lokalen JSON-Datei gespeichert.
-- **Ordner-Lesezeichen:** Die von Ihnen ausgewählten Ein- und Ausgabeordner werden als sicherheitsbezogene Lesezeichen gespeichert, damit die App nach einem Neustart weiterhin Zugriff hat.
+- **Einstellungen:** Deine Konfiguration (Umbenennungsmodus, Dateioperationen, Sprachauswahl) wird in einer lokalen JSON-Datei gespeichert.
+- **Ordner-Lesezeichen:** Die von dir ausgewählten Ein- und Ausgabeordner werden als sicherheitsbezogene Lesezeichen gespeichert, damit die App nach einem Neustart weiterhin Zugriff hat.
 - **Benutzereinstellungen:** Einfache Einstellungen wie die Sprachauswahl und der Begrüßungsbildschirm-Status werden in den lokalen UserDefaults gespeichert.
 
-Diese Daten verlassen Ihr Gerät nicht und können jederzeit durch Deinstallation der App vollständig entfernt werden.
+Diese Daten verlassen dein Gerät nicht und können jederzeit durch Deinstallation der App vollständig entfernt werden.
 
 ### Dateizugriff
 
-SwiftRename greift ausschließlich auf Ordner und Dateien zu, die Sie selbst aktiv auswählen (über den Dateidialog oder per Drag & Drop). Die App arbeitet innerhalb der macOS-Sandbox und hat keinen Zugriff auf andere Bereiche Ihres Systems.
+SwiftRename greift ausschließlich auf Ordner und Dateien zu, die du selbst aktiv auswählst (über den Dateidialog oder per Drag & Drop). Die App arbeitet innerhalb der macOS-Sandbox und hat keinen Zugriff auf andere Bereiche deines Systems.
 
 ### Dienste von Drittanbietern
 
@@ -45,5 +45,5 @@ Da SwiftRename keine Daten erhebt, bestehen keine besonderen Risiken für Kinder
 
 ### Kontakt
 
-Bei Fragen zur Datenschutzrichtlinie wenden Sie sich an:
+Bei Fragen zur Datenschutzrichtlinie wende dich an:
 Andreas Heiligtag — SwiftAppsBavaria@gmx.net
