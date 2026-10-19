@@ -1,7 +1,7 @@
 # Privacy Policy
 
-**SwiftRename**
-Last updated: Feburary, 17th 2026 / Zuletzt aktualisiert: 17. Februar 2026
+**SwiftRename for Mac and Windows**
+Last updated: October 19, 2026
 
 ---
 
@@ -21,19 +21,30 @@ SwiftRename collects **no** personal data. The app:
 - Does not send data to servers or third parties
 - Does not contain advertising
 
+The website link in the app only opens your browser; the app itself downloads nothing.
+
 ### Local Data Storage
 
-SwiftRename stores the following data exclusively on your Mac:
+**On the Mac** SwiftRename stores the following data exclusively locally:
 
 - **Settings:** Your configuration (rename mode, file operations, language selection) is stored in a local JSON file.
 - **Folder bookmarks:** The input and output folders you select are stored as security-scoped bookmarks so the app can retain access after a restart.
 - **User preferences:** Simple settings such as language selection and welcome screen status are stored in local UserDefaults.
 
+**On Windows** SwiftRename stores the following data exclusively locally, in the app's data folder:
+
+- **Settings:** Your configuration (rename mode, file operations, input and output folders, recently used folders) is stored in a local JSON file.
+- **Log:** Messages about operations and errors are kept in local text files that are deleted after seven days. They only leave your PC if you save them yourself with “Save Log…” and pass them on.
+
 This data never leaves your device and can be completely removed at any time by uninstalling the app.
 
 ### File Access
 
-SwiftRename only accesses folders and files that you actively select (via the file dialog or drag and drop). The app operates within the macOS sandbox and has no access to other areas of your system.
+SwiftRename only accesses folders and files that you actively select (via the file dialog or drag and drop). On the Mac the app operates within the macOS sandbox and has no access to other areas of your system; on Windows it does not search any other areas.
+
+### Microsoft Store
+
+On Windows, purchase, download, and updates are handled by the Microsoft Store. Microsoft's privacy statement applies to these.
 
 ### Third-Party Services
 

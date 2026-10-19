@@ -1,7 +1,7 @@
 # Política de Privacidade
 
-**SwiftRename**
-Última atualização: 20 de julho de 2026
+**SwiftRename para Mac e Windows**
+Última atualização: 19 de outubro de 2026
 
 ---
 
@@ -19,19 +19,30 @@ O SwiftRename **não** coleta dados pessoais. O app:
 - Não envia dados a servidores nem a terceiros
 - Não contém publicidade
 
+O link para o site no app apenas abre o seu navegador; o próprio app não baixa nada.
+
 ### Armazenamento Local de Dados
 
-O SwiftRename guarda os seguintes dados exclusivamente de forma local no seu Mac:
+**No Mac**, o SwiftRename guarda os seguintes dados exclusivamente de forma local:
 
 - **Ajustes:** Sua configuração (modo de renomeação, operações de arquivo, seleção de idioma) é guardada em um arquivo JSON local.
 - **Marcadores de pastas:** As pastas de entrada e de saída que você selecionar são guardadas como marcadores com escopo de segurança (security-scoped bookmarks), para que o app mantenha o acesso após uma reinicialização.
 - **Preferências do usuário:** Ajustes simples, como a seleção de idioma e o status da tela de boas-vindas, são guardados nos UserDefaults locais.
 
+**No Windows**, o SwiftRename guarda os seguintes dados exclusivamente de forma local, na pasta de dados do app:
+
+- **Configurações:** Sua configuração (modo de renomeação, operações de arquivo, pastas de entrada e de saída, pastas usadas recentemente) é guardada em um arquivo JSON local.
+- **Registro:** As mensagens sobre operações e erros ficam em arquivos de texto locais, que são apagados após sete dias. Eles só saem do seu PC se você mesmo os salvar como arquivo com “Salvar registro…” e os repassar.
+
 Esses dados nunca saem do seu dispositivo e podem ser removidos por completo a qualquer momento ao desinstalar o app.
 
 ### Acesso a Arquivos
 
-O SwiftRename acessa exclusivamente as pastas e os arquivos que você seleciona de forma ativa (pelo diálogo de arquivos ou arrastando e soltando). O app funciona dentro do ambiente isolado (sandbox) do macOS e não tem acesso a outras áreas do seu sistema.
+O SwiftRename acessa exclusivamente as pastas e os arquivos que você seleciona de forma ativa (pelo diálogo de arquivos ou arrastando e soltando). No Mac, o app funciona dentro do ambiente isolado (sandbox) do macOS e não tem acesso a outras áreas do seu sistema; no Windows, não vasculha outras áreas.
+
+### Microsoft Store
+
+No Windows, a compra, o download e as atualizações são feitos pela Microsoft Store. Para isso, vale a Política de Privacidade da Microsoft.
 
 ### Serviços de Terceiros
 
