@@ -1,7 +1,7 @@
 # Política de privacidad
 
 **SwiftRename para Mac y Windows**
-Última actualización: 19 de octubre de 2026
+Última actualización: 20 de octubre de 2026
 
 ---
 
@@ -31,7 +31,7 @@ El enlace al sitio web en la app solo abre tu navegador; la propia app no descar
 
 **En Windows**, SwiftRename guarda los siguientes datos exclusivamente de forma local, en la carpeta de datos de la app:
 
-- **Configuración:** Tu configuración (modo de renombrado, operaciones de archivo, carpetas de entrada y de salida, carpetas usadas recientemente) se guarda en un archivo JSON local.
+- **Configuración:** Tu configuración (modo de renombrado, operaciones de archivo, carpetas de entrada y de salida, carpetas usadas recientemente) se guarda en un archivo JSON local; el tamaño y la posición de la ventana, en la configuración de la app en Windows.
 - **Registro:** Los mensajes sobre operaciones y errores se guardan en archivos de texto locales que se eliminan al cabo de siete días. Solo salen de tu PC si tú mismo los guardas como archivo con «Guardar registro…» y los compartes.
 
 Estos datos nunca salen de tu dispositivo y pueden eliminarse por completo en cualquier momento desinstalando la app.

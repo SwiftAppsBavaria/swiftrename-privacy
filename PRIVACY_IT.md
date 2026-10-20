@@ -1,7 +1,7 @@
 # Informativa sulla privacy
 
 **SwiftRename per Mac e Windows**
-Ultimo aggiornamento: 19 ottobre 2026
+Ultimo aggiornamento: 20 ottobre 2026
 
 ---
 
@@ -31,7 +31,7 @@ Il link al sito web nell'app apre soltanto il tuo browser; l'app stessa non scar
 
 **Su Windows** SwiftRename salva i seguenti dati esclusivamente in locale, nella cartella dei dati dell'app:
 
-- **Impostazioni:** La tua configurazione (modalità di rinomina, operazioni sui file, cartelle di ingresso e di uscita, cartelle usate di recente) viene salvata in un file JSON locale.
+- **Impostazioni:** La tua configurazione (modalità di rinomina, operazioni sui file, cartelle di ingresso e di uscita, cartelle usate di recente) viene salvata in un file JSON locale; dimensioni e posizione della finestra nelle impostazioni dell'app di Windows.
 - **Registro:** I messaggi su operazioni ed errori vengono conservati in file di testo locali, che vengono eliminati dopo sette giorni. Lasciano il tuo PC solo se li salvi tu stesso in un file con «Salva registro…» e li condividi.
 
 Questi dati non lasciano mai il tuo dispositivo e possono essere rimossi completamente in qualsiasi momento disinstallando l'app.

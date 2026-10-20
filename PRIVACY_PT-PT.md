@@ -1,7 +1,7 @@
 # Política de Privacidade
 
 **SwiftRename para Mac e Windows**
-Última atualização: 19 de outubro de 2026
+Última atualização: 20 de outubro de 2026
 
 ---
 
@@ -31,7 +31,7 @@ A ligação para o site na aplicação apenas abre o seu navegador; a própria a
 
 **No Windows**, o SwiftRename armazena os seguintes dados exclusivamente de forma local, na pasta de dados da aplicação:
 
-- **Definições:** a sua configuração (modo de renomeação, operações de ficheiros, pastas de entrada e de saída, pastas usadas recentemente) é guardada num ficheiro JSON local.
+- **Definições:** a sua configuração (modo de renomeação, operações de ficheiros, pastas de entrada e de saída, pastas usadas recentemente) é guardada num ficheiro JSON local; o tamanho e a posição da janela, nas definições da aplicação no Windows.
 - **Registo:** as mensagens sobre operações e erros ficam em ficheiros de texto locais, que são eliminados ao fim de sete dias. Só saem do seu PC se o utilizador os guardar num ficheiro com «Guardar registo…» e os partilhar.
 
 Estes dados nunca saem do seu dispositivo e podem ser totalmente removidos a qualquer momento, desinstalando a aplicação.

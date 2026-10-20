@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **SwiftRename for Mac and Windows**
-Last updated: October 19, 2026
+Last updated: October 20, 2026
 
 ---
 
@@ -33,7 +33,7 @@ The website link in the app only opens your browser; the app itself downloads no
 
 **On Windows** SwiftRename stores the following data exclusively locally, in the app's data folder:
 
-- **Settings:** Your configuration (rename mode, file operations, input and output folders, recently used folders) is stored in a local JSON file.
+- **Settings:** Your configuration (rename mode, file operations, input and output folders, recently used folders) is stored in a local JSON file; window size and position in the app's Windows settings.
 - **Log:** Messages about operations and errors are kept in local text files that are deleted after seven days. They only leave your PC if you save them yourself with “Save Log…” and pass them on.
 
 This data never leaves your device and can be completely removed at any time by uninstalling the app.
